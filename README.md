@@ -14,7 +14,9 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 | ENS           | ![ENS](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_ens.png) |
 | Ethereum      | ![Ethereum](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_eth.png) |
 | Github        | ![Github](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_github.png) |
+| gm            | ![gm](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gm.png) |
+| MetaMask      | ![MetaMask](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png) |
 | Mirror        | ![Mirror](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_mirror.png) |
 | POAP          | ![Github](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poap.png) |
-| twitter       | ![Twitter](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_twitter.png) |
+| Twitter       | ![Twitter](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_twitter.png) |
 

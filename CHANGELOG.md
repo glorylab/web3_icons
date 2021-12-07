@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.3
+
+Add icons for MetaMask and gm.
+
 ## 0.0.2
 
 Add icons for Bitcoin, ENS, Ethereum and POAP.
