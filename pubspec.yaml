@@ -1,7 +1,7 @@
 name: web3_icons
 description: A package to provide easy-to-use icons for Web3 projects. 
-version: 0.0.1
-homepage: https://glorylab.xyz
+version: 0.0.2
+homepage: https://github.com/glorylab/web3_icons
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
