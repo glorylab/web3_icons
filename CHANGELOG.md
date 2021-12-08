@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.4
+
+Add icons for BrightID.
+
 ## 0.0.3
 
 Add icons for MetaMask and gm.
