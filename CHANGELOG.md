@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.5
+
+Add icons for GloryLab.
+
 ## 0.0.4
 
 Add icons for BrightID.

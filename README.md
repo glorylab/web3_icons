@@ -23,8 +23,9 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 ## Tools
 |  Project   | Icon  |
 |  ----  | ----  |
-| BrightID      | ![BrightID](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_brightID.png) |
+| BrightID      | ![BrightID](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_bright_id.png) |
 | ENS           | ![ENS](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_ens.png) |
+| GloryLab      | ![GloryLab](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_glory_lab.png) |
 | MetaMask      | ![MetaMask](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png) |
 | Mirror        | ![Mirror](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_mirror.png) |
 | POAP          | ![Github](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poap.png) |
