@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.6
+
+Add icons for OpenSea, Gitcoin and RSS3.
+
 ## 0.0.5
 
 Add icons for GloryLab.
