@@ -11,6 +11,7 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 |  Project   | Icon  |
 |  ----  | ----  |
 | Bitcoin       | ![Bitcoin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_btc.png) |
+| Gnosis        | ![Gnosis](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gnosis.png) |
 | Ethereum      | ![Ethereum](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_eth.png) |
 | gm            | ![gm](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gm.png) |
 

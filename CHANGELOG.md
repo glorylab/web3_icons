@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.7
+
+Add icons for Gnosis.
+
 ## 0.0.6
 
 Add icons for OpenSea, Gitcoin and RSS3.
