@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.8
+
+Add icons for POAPin, GitPOAP and POAPathon.
+
 ## 0.0.7
 
 Add icons for Gnosis.

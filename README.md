@@ -27,11 +27,14 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 | BrightID      | ![BrightID](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_bright_id.png) |
 | ENS           | ![ENS](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_ens.png) |
 | Gitcoin       | ![Gitcoin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gitcoin.png) |
+| GitPOAP       | ![GitPOAP](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gitpoap.png) |
 | GloryLab      | ![GloryLab](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_glory_lab.png) |
 | MetaMask      | ![MetaMask](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png) |
 | Mirror        | ![Mirror](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_mirror.png) |
 | OpenSea       | ![OpenSea](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_opensea.png) |
 | POAP          | ![POAP](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poap.png) |
+| POAPathon     | ![POAPathon](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poapathon.png) |
+| POAPin        | ![POAPin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poapin.png) |
 | RSS3          | ![RSS3](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_rss3.png) |
 
 ## Web2
