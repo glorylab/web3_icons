@@ -13,7 +13,6 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 | Bitcoin       | ![Bitcoin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_btc.png) |
 | Gnosis        | ![Gnosis](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gnosis.png) |
 | Ethereum      | ![Ethereum](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_eth.png) |
-| gm            | ![gm](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gm.png) |
 
 ## Metaverse
 
@@ -31,11 +30,13 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 | GloryLab      | ![GloryLab](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_glory_lab.png) |
 | MetaMask      | ![MetaMask](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png) |
 | Mirror        | ![Mirror](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_mirror.png) |
+| Moments       | ![Moments](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_moments.png) |
 | OpenSea       | ![OpenSea](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_opensea.png) |
 | POAP          | ![POAP](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poap.png) |
 | POAPathon     | ![POAPathon](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poapathon.png) |
 | POAPin        | ![POAPin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_poapin.png) |
 | RSS3          | ![RSS3](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_rss3.png) |
+| Welook        | ![Welook](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_welook.png) |
 
 ## Web2
 |  Project   | Icon  |

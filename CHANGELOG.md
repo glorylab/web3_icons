@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.9
+
+Add icons for Welook and Moments.
+
 ## 0.0.8
 
 Add icons for POAPin, GitPOAP and POAPathon.
