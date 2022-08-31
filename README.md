@@ -27,6 +27,7 @@ Currently available in `original size`, `2x`, and `3x` images. The image size is
 | ENS           | ![ENS](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_ens.png) |
 | Gitcoin       | ![Gitcoin](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gitcoin.png) |
 | GitPOAP       | ![GitPOAP](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gitpoap.png) |
+| GitPOAP(Full) | ![GitPOAP(Full)](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_gitpoap_full.png) |
 | GloryLab      | ![GloryLab](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_glory_lab.png) |
 | MetaMask      | ![MetaMask](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png) |
 | Mirror        | ![Mirror](https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_mirror.png) |

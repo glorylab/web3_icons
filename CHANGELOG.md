@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.10
+
+Add big icons for GitPOAP.
+
 ## 0.0.9
 
 Add icons for Welook and Moments.
