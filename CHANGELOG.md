@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.0.11
+
+Update big icons for GitPOAP.
+
 ## 0.0.10
 
 Add big icons for GitPOAP.
